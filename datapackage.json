@@ -44,7 +44,7 @@
       "format": "csv",
       "mediatype": "text/csv",
       "schema": "schemas/spi_participants.schema.json",
-      "hash": "bdc6d124d1b133337db9248df9b3c719df305d151e857b69ab0a1b26c90d3eb0",
+      "hash": "0d5eb0acf89ff535a0d82d68deb2b01f791b62bfe20a846b740d6cec94ee8430",
       "bytes": 625901,
       "rows": 891
     },
@@ -54,7 +54,7 @@
       "format": "json",
       "mediatype": "application/json",
       "schema": "schemas/spi_participants.schema.json",
-      "hash": "b130109e03ba04034cf7a93adc0a5c1091cdac14a1b4993c8f904b11a56d8113",
+      "hash": "c0166c83e7127fd13083be6582347c8eaf97fbb81d0811506136ae7cc2f9937b",
       "bytes": 1139401,
       "rows": 891
     },
@@ -64,7 +64,7 @@
       "format": "csv",
       "mediatype": "text/csv",
       "schema": "schemas/pix_active_participants.schema.json",
-      "hash": "c46d30741e39dedc5c0c229ade03ee8f2bf715587704aa08e9f98d743dd4390a",
+      "hash": "0b7c0e8d05face82a0613c67ff22aacd5e176bd49baa8f1edc84273551133715",
       "bytes": 757488,
       "rows": 901
     },
@@ -74,7 +74,7 @@
       "format": "json",
       "mediatype": "application/json",
       "schema": "schemas/pix_active_participants.schema.json",
-      "hash": "5115f0e2c031bdb85ce0ae827ee6b24bfc16147fdcb242711b880e1ce2ef2acc",
+      "hash": "1c4815c64c9b534a2ace58e1e6a0b5c3007e2f03ec85479b6263bc6e98a605ce",
       "bytes": 1238046,
       "rows": 901
     },
@@ -84,7 +84,7 @@
       "format": "csv",
       "mediatype": "text/csv",
       "schema": "schemas/pix_in_adhesion.schema.json",
-      "hash": "d2a424dc7fecbcbd2081a3879d1f9e83687c624112fc4d3a065627ae504e527e",
+      "hash": "d587794c8c7195604a80ca69e4411d9bb1d5704f9feb7c73f368d9d7f896d9ac",
       "bytes": 15203,
       "rows": 19
     },
@@ -94,7 +94,7 @@
       "format": "json",
       "mediatype": "application/json",
       "schema": "schemas/pix_in_adhesion.schema.json",
-      "hash": "52877ca19e5a3ccc13554a397bdd127f3354a87b1c0bc3112be2910317374fc3",
+      "hash": "d33214a9a9c7693a9690ac3d3a5854bcebf13ed9ea78f1a02e31e58eeb91ec8f",
       "bytes": 24079,
       "rows": 19
     },
@@ -104,7 +104,7 @@
       "format": "csv",
       "mediatype": "text/csv",
       "schema": "schemas/catalog_crosswalk.schema.json",
-      "hash": "763a5ba1a783deed8dd402098bb2845686364c9cdbef2fead05376c0b9a5f3cd",
+      "hash": "fa0c439847c0c4050f15861c5646f72421d01974b374556c4005cff4ea11c0df",
       "bytes": 619106,
       "rows": 1811
     },
@@ -114,7 +114,7 @@
       "format": "json",
       "mediatype": "application/json",
       "schema": "schemas/catalog_crosswalk.schema.json",
-      "hash": "f2e2063dccf40518cd2b0a1a8b982f8dbbd6c094155d413c948f1302da2b6336",
+      "hash": "2d537b54cb00fe04eb841f2a11940f12c04f30b26e2d5c1c0f24db0d617c7153",
       "bytes": 1332204,
       "rows": 1811
     },
@@ -123,7 +123,7 @@
       "path": "current/manifest.json",
       "format": "json",
       "mediatype": "application/json",
-      "hash": "219132984d90aed8a94993aaa04ce5160a3031db245981cd6061e11ff0fcbba6",
+      "hash": "dfbaac54e28b2fd0a7fe5b834885d57f89fc0052b2182d60208c12bef44e8de9",
       "bytes": 4575
     }
   ]
