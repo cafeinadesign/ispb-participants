@@ -7,81 +7,81 @@ import type { CatalogMetadata, Metadata } from '../catalog/types.js';
 export const METADATA: Metadata = {
   "source": "ISPB Participants Catalog current snapshot",
   "sourceUrl": "https://github.com/cafeinadesign/ispb-participants/tree/main/current",
-  "snapshotDate": "2026-06-16",
+  "snapshotDate": "2026-06-17",
   "spiParticipantCount": 879,
   "pixActiveParticipantCount": 901,
   "pixInAdhesionCount": 19,
   "crosswalkRecordCount": 1799,
-  "sourceDate": "2026-06-16",
+  "sourceDate": "2026-06-17",
   "recordCount": 901
 } as const;
 
 export const CATALOG_METADATA: CatalogMetadata = {
   "catalogUrl": "https://github.com/cafeinadesign/ispb-participants",
-  "snapshotDate": "2026-06-16",
+  "snapshotDate": "2026-06-17",
   "spiParticipantCount": 879,
   "pixActiveParticipantCount": 901,
   "pixInAdhesionCount": 19,
   "crosswalkRecordCount": 1799,
   "manifest": {
-    "snapshot_date": "2026-06-16",
-    "collected_at": "2026-06-16T14:25:46.547Z",
+    "snapshot_date": "2026-06-17",
+    "collected_at": "2026-06-17T12:57:20.575Z",
     "source_urls": {
       "spi_participants": [
         "https://www.bcb.gov.br/estabilidadefinanceira/sistemapagamentosinstantaneos",
         "https://www.bcb.gov.br/api/paginasite/sitebcb/estabilidadefinanceira/sistemapagamentosinstantaneos",
-        "https://www.bcb.gov.br/content/estabilidadefinanceira/spi-pdf/participantes-spi-20260616.pdf",
-        "https://www.bcb.gov.br/content/estabilidadefinanceira/spi/participantes-spi-20260616.csv"
+        "https://www.bcb.gov.br/content/estabilidadefinanceira/spi-pdf/participantes-spi-20260617.pdf",
+        "https://www.bcb.gov.br/content/estabilidadefinanceira/spi/participantes-spi-20260617.csv"
       ],
       "pix_active_participants": [
         "https://www.bcb.gov.br/estabilidadefinanceira/pix-participantes",
         "https://www.bcb.gov.br/api/paginasite/sitebcb/estabilidadefinanceira/pix-participantes",
-        "https://www.bcb.gov.br/content/estabilidadefinanceira/participantes_pix_pdf/lista-participantes-instituicoes-em-adesao-pix-20260616.pdf",
-        "https://www.bcb.gov.br/content/estabilidadefinanceira/participantes_pix/lista-participantes-instituicoes-em-adesao-pix-20260616.csv"
+        "https://www.bcb.gov.br/content/estabilidadefinanceira/participantes_pix_pdf/lista-participantes-instituicoes-em-adesao-pix-20260617.pdf",
+        "https://www.bcb.gov.br/content/estabilidadefinanceira/participantes_pix/lista-participantes-instituicoes-em-adesao-pix-20260617.csv"
       ],
       "pix_in_adhesion": [
         "https://www.bcb.gov.br/estabilidadefinanceira/pix-participantes",
         "https://www.bcb.gov.br/api/paginasite/sitebcb/estabilidadefinanceira/pix-participantes",
-        "https://www.bcb.gov.br/content/estabilidadefinanceira/participantes_pix_pdf/lista-participantes-instituicoes-em-adesao-pix-20260616.pdf",
-        "https://www.bcb.gov.br/content/estabilidadefinanceira/participantes_pix/lista-participantes-instituicoes-em-adesao-pix-20260616.csv"
+        "https://www.bcb.gov.br/content/estabilidadefinanceira/participantes_pix_pdf/lista-participantes-instituicoes-em-adesao-pix-20260617.pdf",
+        "https://www.bcb.gov.br/content/estabilidadefinanceira/participantes_pix/lista-participantes-instituicoes-em-adesao-pix-20260617.csv"
       ],
       "catalog_crosswalk": [
         "https://www.bcb.gov.br/estabilidadefinanceira/sistemapagamentosinstantaneos",
         "https://www.bcb.gov.br/api/paginasite/sitebcb/estabilidadefinanceira/sistemapagamentosinstantaneos",
-        "https://www.bcb.gov.br/content/estabilidadefinanceira/spi-pdf/participantes-spi-20260616.pdf",
-        "https://www.bcb.gov.br/content/estabilidadefinanceira/spi/participantes-spi-20260616.csv",
+        "https://www.bcb.gov.br/content/estabilidadefinanceira/spi-pdf/participantes-spi-20260617.pdf",
+        "https://www.bcb.gov.br/content/estabilidadefinanceira/spi/participantes-spi-20260617.csv",
         "https://www.bcb.gov.br/estabilidadefinanceira/pix-participantes",
         "https://www.bcb.gov.br/api/paginasite/sitebcb/estabilidadefinanceira/pix-participantes",
-        "https://www.bcb.gov.br/content/estabilidadefinanceira/participantes_pix_pdf/lista-participantes-instituicoes-em-adesao-pix-20260616.pdf",
-        "https://www.bcb.gov.br/content/estabilidadefinanceira/participantes_pix/lista-participantes-instituicoes-em-adesao-pix-20260616.csv",
+        "https://www.bcb.gov.br/content/estabilidadefinanceira/participantes_pix_pdf/lista-participantes-instituicoes-em-adesao-pix-20260617.pdf",
+        "https://www.bcb.gov.br/content/estabilidadefinanceira/participantes_pix/lista-participantes-instituicoes-em-adesao-pix-20260617.csv",
         "https://www.bcb.gov.br/estabilidadefinanceira/pix-participantes",
         "https://www.bcb.gov.br/api/paginasite/sitebcb/estabilidadefinanceira/pix-participantes",
-        "https://www.bcb.gov.br/content/estabilidadefinanceira/participantes_pix_pdf/lista-participantes-instituicoes-em-adesao-pix-20260616.pdf",
-        "https://www.bcb.gov.br/content/estabilidadefinanceira/participantes_pix/lista-participantes-instituicoes-em-adesao-pix-20260616.csv"
+        "https://www.bcb.gov.br/content/estabilidadefinanceira/participantes_pix_pdf/lista-participantes-instituicoes-em-adesao-pix-20260617.pdf",
+        "https://www.bcb.gov.br/content/estabilidadefinanceira/participantes_pix/lista-participantes-instituicoes-em-adesao-pix-20260617.csv"
       ]
     },
     "source_publication_dates": {
-      "spi_participants": "2026-06-16",
-      "pix_active_participants": "2026-06-16",
-      "pix_in_adhesion": "2026-06-16",
+      "spi_participants": "2026-06-17",
+      "pix_active_participants": "2026-06-17",
+      "pix_in_adhesion": "2026-06-17",
       "catalog_crosswalk": null
     },
     "dataset_hashes": {
       "spi_participants": {
-        "csv_sha256": "f6100711ce08837d2bddd9f7b53e27d29d00a678ad1a76b98328f9ef944ecaac",
-        "json_sha256": "ca3b86c85d66e1244bbb2ba288ef2e885984b22c92077cd7ca1b709f72682a68"
+        "csv_sha256": "6410e42f0631bafbdd9c31ca63de7321bc0b69be27e9513395044824e344fa47",
+        "json_sha256": "73876f97fcf5510d4a337b37ac964fbd199e28e9a1247e6937189c91fc3f6f8f"
       },
       "pix_active_participants": {
-        "csv_sha256": "b41eac08dba966ecdce3bc434f6dfd3a93ffd0652335ee4615b2a3f23c72af9e",
-        "json_sha256": "1e6106b668faa06a47937beb0d6dc803f21b7fe0c7c5b7f25aaa6718fa742479"
+        "csv_sha256": "ed28637cc8ea411e2fd25f11a04d8e0ae3ad290de8a2244b0227d08c2ddd45db",
+        "json_sha256": "2b0d25e74b669f1119ba5dcdb31f4c330a810cb18d07aaac8ba7715264a7397c"
       },
       "pix_in_adhesion": {
-        "csv_sha256": "894bc16771e97cca381c53c13b8083a8216beeaa8a8b0f894942ff3026c77de5",
-        "json_sha256": "aa4def50e526b8ed67dcf36f48a96ffd65903201ea7b80f28cf6573339d4208a"
+        "csv_sha256": "0b3f42ea63216b8276c7019838e1c796c0455171bb279d3b2d5a79ce22d99026",
+        "json_sha256": "b69f9a6c10780bd42f136f7c3627074a31d33fc6916242556c17c6e1f49b6e8c"
       },
       "catalog_crosswalk": {
-        "csv_sha256": "9560ae28e5ba895e2ded64fb7508de497b1974fb6e6d1ddd06d30cf3909afb01",
-        "json_sha256": "8b6c54792bac1ab38f625f649ebe33bb998712d25edeca52822afbb52ba96daf"
+        "csv_sha256": "4be76480b9ca98eb2a70aec3ea037581eb9eb2ecff086a25c83fcf50379aa68d",
+        "json_sha256": "570de167c539409dd1083709b4b0a74ef9f6453f449bdc159bfd9e027f5e7192"
       }
     },
     "record_counts": {
@@ -115,34 +115,34 @@ export const CATALOG_METADATA: CatalogMetadata = {
     "spi_participants": [
       "https://www.bcb.gov.br/estabilidadefinanceira/sistemapagamentosinstantaneos",
       "https://www.bcb.gov.br/api/paginasite/sitebcb/estabilidadefinanceira/sistemapagamentosinstantaneos",
-      "https://www.bcb.gov.br/content/estabilidadefinanceira/spi-pdf/participantes-spi-20260616.pdf",
-      "https://www.bcb.gov.br/content/estabilidadefinanceira/spi/participantes-spi-20260616.csv"
+      "https://www.bcb.gov.br/content/estabilidadefinanceira/spi-pdf/participantes-spi-20260617.pdf",
+      "https://www.bcb.gov.br/content/estabilidadefinanceira/spi/participantes-spi-20260617.csv"
     ],
     "pix_active_participants": [
       "https://www.bcb.gov.br/estabilidadefinanceira/pix-participantes",
       "https://www.bcb.gov.br/api/paginasite/sitebcb/estabilidadefinanceira/pix-participantes",
-      "https://www.bcb.gov.br/content/estabilidadefinanceira/participantes_pix_pdf/lista-participantes-instituicoes-em-adesao-pix-20260616.pdf",
-      "https://www.bcb.gov.br/content/estabilidadefinanceira/participantes_pix/lista-participantes-instituicoes-em-adesao-pix-20260616.csv"
+      "https://www.bcb.gov.br/content/estabilidadefinanceira/participantes_pix_pdf/lista-participantes-instituicoes-em-adesao-pix-20260617.pdf",
+      "https://www.bcb.gov.br/content/estabilidadefinanceira/participantes_pix/lista-participantes-instituicoes-em-adesao-pix-20260617.csv"
     ],
     "pix_in_adhesion": [
       "https://www.bcb.gov.br/estabilidadefinanceira/pix-participantes",
       "https://www.bcb.gov.br/api/paginasite/sitebcb/estabilidadefinanceira/pix-participantes",
-      "https://www.bcb.gov.br/content/estabilidadefinanceira/participantes_pix_pdf/lista-participantes-instituicoes-em-adesao-pix-20260616.pdf",
-      "https://www.bcb.gov.br/content/estabilidadefinanceira/participantes_pix/lista-participantes-instituicoes-em-adesao-pix-20260616.csv"
+      "https://www.bcb.gov.br/content/estabilidadefinanceira/participantes_pix_pdf/lista-participantes-instituicoes-em-adesao-pix-20260617.pdf",
+      "https://www.bcb.gov.br/content/estabilidadefinanceira/participantes_pix/lista-participantes-instituicoes-em-adesao-pix-20260617.csv"
     ],
     "catalog_crosswalk": [
       "https://www.bcb.gov.br/estabilidadefinanceira/sistemapagamentosinstantaneos",
       "https://www.bcb.gov.br/api/paginasite/sitebcb/estabilidadefinanceira/sistemapagamentosinstantaneos",
-      "https://www.bcb.gov.br/content/estabilidadefinanceira/spi-pdf/participantes-spi-20260616.pdf",
-      "https://www.bcb.gov.br/content/estabilidadefinanceira/spi/participantes-spi-20260616.csv",
+      "https://www.bcb.gov.br/content/estabilidadefinanceira/spi-pdf/participantes-spi-20260617.pdf",
+      "https://www.bcb.gov.br/content/estabilidadefinanceira/spi/participantes-spi-20260617.csv",
       "https://www.bcb.gov.br/estabilidadefinanceira/pix-participantes",
       "https://www.bcb.gov.br/api/paginasite/sitebcb/estabilidadefinanceira/pix-participantes",
-      "https://www.bcb.gov.br/content/estabilidadefinanceira/participantes_pix_pdf/lista-participantes-instituicoes-em-adesao-pix-20260616.pdf",
-      "https://www.bcb.gov.br/content/estabilidadefinanceira/participantes_pix/lista-participantes-instituicoes-em-adesao-pix-20260616.csv",
+      "https://www.bcb.gov.br/content/estabilidadefinanceira/participantes_pix_pdf/lista-participantes-instituicoes-em-adesao-pix-20260617.pdf",
+      "https://www.bcb.gov.br/content/estabilidadefinanceira/participantes_pix/lista-participantes-instituicoes-em-adesao-pix-20260617.csv",
       "https://www.bcb.gov.br/estabilidadefinanceira/pix-participantes",
       "https://www.bcb.gov.br/api/paginasite/sitebcb/estabilidadefinanceira/pix-participantes",
-      "https://www.bcb.gov.br/content/estabilidadefinanceira/participantes_pix_pdf/lista-participantes-instituicoes-em-adesao-pix-20260616.pdf",
-      "https://www.bcb.gov.br/content/estabilidadefinanceira/participantes_pix/lista-participantes-instituicoes-em-adesao-pix-20260616.csv"
+      "https://www.bcb.gov.br/content/estabilidadefinanceira/participantes_pix_pdf/lista-participantes-instituicoes-em-adesao-pix-20260617.pdf",
+      "https://www.bcb.gov.br/content/estabilidadefinanceira/participantes_pix/lista-participantes-instituicoes-em-adesao-pix-20260617.csv"
     ]
   }
 } as const;
