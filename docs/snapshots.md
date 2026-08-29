@@ -4,6 +4,7 @@ Cada subdiretorio em `snapshots/YYYY-MM-DD/` representa um snapshot imutavel do 
 
 | Snapshot | SPI | Pix ativos | Pix em adesao | Crosswalk | Validation |
 | --- | ---: | ---: | ---: | ---: | --- |
+| 2026-08-29 | 872 | 889 | 19 | 1780 | passed |
 | 2026-08-28 | 872 | 889 | 18 | 1779 | passed |
 | 2026-08-27 | 872 | 889 | 18 | 1779 | passed |
 | 2026-08-26 | 872 | 889 | 17 | 1778 | passed |
