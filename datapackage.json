@@ -19,10 +19,10 @@
       "path": "https://www.bcb.gov.br/api/paginasite/sitebcb/estabilidadefinanceira/sistemapagamentosinstantaneos"
     },
     {
-      "path": "https://www.bcb.gov.br/content/estabilidadefinanceira/spi-pdf/participantes-spi-20260916.pdf"
+      "path": "https://www.bcb.gov.br/content/estabilidadefinanceira/spi-pdf/participantes-spi-20260917.pdf"
     },
     {
-      "path": "https://www.bcb.gov.br/content/estabilidadefinanceira/spi/participantes-spi-20260916.csv"
+      "path": "https://www.bcb.gov.br/content/estabilidadefinanceira/spi/participantes-spi-20260917.csv"
     },
     {
       "path": "https://www.bcb.gov.br/estabilidadefinanceira/pix-participantes"
@@ -31,10 +31,10 @@
       "path": "https://www.bcb.gov.br/api/paginasite/sitebcb/estabilidadefinanceira/pix-participantes"
     },
     {
-      "path": "https://www.bcb.gov.br/content/estabilidadefinanceira/participantes_pix_pdf/lista-participantes-instituicoes-em-adesao-pix-20260916.pdf"
+      "path": "https://www.bcb.gov.br/content/estabilidadefinanceira/participantes_pix_pdf/lista-participantes-instituicoes-em-adesao-pix-20260917.pdf"
     },
     {
-      "path": "https://www.bcb.gov.br/content/estabilidadefinanceira/participantes_pix/lista-participantes-instituicoes-em-adesao-pix-20260916.csv"
+      "path": "https://www.bcb.gov.br/content/estabilidadefinanceira/participantes_pix/lista-participantes-instituicoes-em-adesao-pix-20260917.csv"
     }
   ],
   "resources": [
@@ -44,7 +44,7 @@
       "format": "csv",
       "mediatype": "text/csv",
       "schema": "schemas/spi_participants.schema.json",
-      "hash": "2d36d6c1d518ce6972f15452a1b49516d635702724ad94c2000a513642a7c65e",
+      "hash": "32d2a824aee9c507130c2df663ce0aea714b844034f8aa0df6a01c067794219d",
       "bytes": 609044,
       "rows": 869
     },
@@ -54,7 +54,7 @@
       "format": "json",
       "mediatype": "application/json",
       "schema": "schemas/spi_participants.schema.json",
-      "hash": "400988e28318dfe11784701d8322b000886802cbd3323ae404dc28ee114e8da0",
+      "hash": "8b7d01ba96bdf148ccc1c65053df1d8519a47cda008aa386d32e4bbc998c03f3",
       "bytes": 1109854,
       "rows": 869
     },
@@ -64,7 +64,7 @@
       "format": "csv",
       "mediatype": "text/csv",
       "schema": "schemas/pix_active_participants.schema.json",
-      "hash": "5c90c99383766ef09a0621601ec99e9e20675dfc8b62a761b7b5104644c8ad36",
+      "hash": "23cc9eeb7deaab64f69aaac93a3ff11476af103fb4421c94b08d2907aed35f62",
       "bytes": 743733,
       "rows": 885
     },
@@ -74,7 +74,7 @@
       "format": "json",
       "mediatype": "application/json",
       "schema": "schemas/pix_active_participants.schema.json",
-      "hash": "c425c1d01cf895eb7c9928094541936952d9cf57f9d5cb1c88dad3d24fc8ad3e",
+      "hash": "b090624cd5a0c0d305b727872ef298d48578a8e0bd4755bf79bd920c36b31aa3",
       "bytes": 1215719,
       "rows": 885
     },
@@ -84,7 +84,7 @@
       "format": "csv",
       "mediatype": "text/csv",
       "schema": "schemas/pix_in_adhesion.schema.json",
-      "hash": "5ad082e95a6f2f131a2924e3cb06834362217a8814b729631c16a3452e13037d",
+      "hash": "6722f93a1ebc025700d327a3b0670f443f4c75c7d66285a27b12171bb99b638c",
       "bytes": 15786,
       "rows": 20
     },
@@ -94,7 +94,7 @@
       "format": "json",
       "mediatype": "application/json",
       "schema": "schemas/pix_in_adhesion.schema.json",
-      "hash": "38a57fd5eacdde202c1de94fd89f8ea253c17bb445f75f102ded61d2c9052eb3",
+      "hash": "6e43298961484555da6c16c6e2432195ea21dfd10c6c651a742e1079631def68",
       "bytes": 25138,
       "rows": 20
     },
@@ -104,7 +104,7 @@
       "format": "csv",
       "mediatype": "text/csv",
       "schema": "schemas/catalog_crosswalk.schema.json",
-      "hash": "83877be6a5be632cb29e29be4d03701d2722a965234bd6942585dc9310bc303f",
+      "hash": "c2a0e99326e285e84298f4aea73123052677647cecaefe9774175fc5b7ce78d3",
       "bytes": 605785,
       "rows": 1774
     },
@@ -114,7 +114,7 @@
       "format": "json",
       "mediatype": "application/json",
       "schema": "schemas/catalog_crosswalk.schema.json",
-      "hash": "a36b48c18969d740242a21867d918714050907ac5bb433c0f2082d9d8973766b",
+      "hash": "e978717d5ecc55ba9bc428a6885b421e340da208dc529bd08083b9e92c5e37ed",
       "bytes": 1304307,
       "rows": 1774
     },
@@ -123,7 +123,7 @@
       "path": "current/manifest.json",
       "format": "json",
       "mediatype": "application/json",
-      "hash": "4beca57cbca96a4b74f782a47dc1103ef020a7fdf2ce5bed40d77a76e9c9d636",
+      "hash": "a666501a377f7d05aa57f0c656b1caff681bf396baa383e665c1712cc3e3cc3d",
       "bytes": 4575
     }
   ]
