@@ -1,6 +1,6 @@
 {
-  "snapshot_date": "2026-10-10",
-  "collected_at": "2026-10-10T15:22:58.381Z",
+  "snapshot_date": "2026-10-11",
+  "collected_at": "2026-10-11T15:41:18.413Z",
   "source_urls": {
     "spi_participants": [
       "https://www.bcb.gov.br/estabilidadefinanceira/sistemapagamentosinstantaneos",
@@ -43,20 +43,20 @@
   },
   "dataset_hashes": {
     "spi_participants": {
-      "csv_sha256": "3704d29a79f0ff9cefe27a6a0379ccd3daa3eac9949c4d49485d380c6b5ee4bc",
-      "json_sha256": "ec3598639f43d6e1da4ecc9c3cc71d2534560149339895e97b85202e68f02fdf"
+      "csv_sha256": "6a771e0ec672def9446828d64d3f5f84f6f554b1cc6d6d43b6ef59ad985f8efe",
+      "json_sha256": "78762318419e31ac5845d7bba67ddb2cf496e327bcc3649ec12fd0f7247b96f8"
     },
     "pix_active_participants": {
-      "csv_sha256": "e14455238054e1ee999807a4669b0d546d53aabfae465d107d574e59835088f9",
-      "json_sha256": "22871b760c17f34c48ec679ce3c03fa7bcbba07821cdd0357e83fc722cac9f6c"
+      "csv_sha256": "2aeb90fffa3397e6525c6c6e19a512b900f5c0de9aa2d5e3d98e4761ad682c7b",
+      "json_sha256": "1c7d558b68f90068fe0e43a5d98831a7d00a7ed6725aa0c7d914da7417207757"
     },
     "pix_in_adhesion": {
-      "csv_sha256": "62e3636b1e31153fff78c40a4378d2223d1b628ad4e22cc6836d5a92830c8764",
-      "json_sha256": "bfeb9f44cd68a6acaac9095c6d562c19412bf31ff7191fd640a46a09c2ebfda0"
+      "csv_sha256": "d1610ea219e81dd6d9c7cb6134731a9e4202ea929775d44ab12276409f8ed070",
+      "json_sha256": "1d65f5c7e8fc14f008ffa9ff56255ab8488c0fdcc3b2187fdaec1510ab3c8326"
     },
     "catalog_crosswalk": {
-      "csv_sha256": "1e892f2fc8846c2a3f175e4f383aeb699d572f8088377f9a70fb3fd06f2dc98a",
-      "json_sha256": "d551fbdd2f2df159676f7e4f8fd83b4b5e5eb88f4ef30944cee17b01b59a7da2"
+      "csv_sha256": "59302b702dea92cfcc86194792d4adf3fd9c5df741fad91125175548157d448d",
+      "json_sha256": "5fe1a6a952e84f161ed5391a1a0e090ad6ded7e721df81175dfe5fe429c09461"
     }
   },
   "record_counts": {
